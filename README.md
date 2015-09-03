@@ -1,5 +1,5 @@
 OUScripts
-===============
+=========
 
 Web scripts to amend and improve the usability of the Open University Website (www.open.ac.uk).
 
